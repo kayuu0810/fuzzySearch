@@ -1,0 +1,10 @@
+.btn-public-message {
+    margin-top: 10px;
+}
+.list-group-item button {
+    display: none;
+}
+
+.list-group-item:hover button {
+    display: block;
+}

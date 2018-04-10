@@ -1,5 +1,5 @@
 import React from 'react';
 import {render} from 'react-dom';
-import FuzzySearch from './components/FuzzySearch';
+import App from './App';
 
-render(<FuzzySearch />,window.app);
+render(<App />,window.app);
